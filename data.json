@@ -1,0 +1,7 @@
+[
+  {"code": "FRMRS", "country_code": "FR", "name": "Marseille", "function": "1", "status": "AA"},
+  {"code": "NLAMS", "country_code": "NL", "name": "Amsterdam", "function": "1", "status": "AA"},
+  {"code": "USLGB", "country_code": "US", "name": "Long Beach", "function": "1", "status": "AA"},
+  {"code": "USDAL", "country_code": "US", "name": "Dallas/Fort Worth International Airport", "function": "4", "status": "AA"},
+  {"code": "JPKOB", "country_code": "JP", "name": "Kobe", "function": "1", "status": "AA"}
+]
